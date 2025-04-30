@@ -1,5 +1,5 @@
 # Hello World!, I'm Elvis, a Kenyan Web Developer 👋🏼:
-🛜 currently 👨🏼‍🎓 studying Software Engineering at Moringa school.
+🛜 currently 👨🏼‍🎓 Software Engineer
 
 
 # 💻 Tech Stack:
