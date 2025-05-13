@@ -1,4 +1,4 @@
-# Hello World!, I'm Elvis, a Kenyan Web Developer 👋🏼:
+# Hello World!, I'm Elvis, a Web Developer 👋🏼:
 🛜 currently 👨🏼‍🎓 Software Engineer
 
 
